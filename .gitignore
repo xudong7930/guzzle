@@ -1,0 +1,8 @@
+node_modules
+vendor
+.vscode
+.env
+.git
+.svn
+.idea
+.DS_Store
